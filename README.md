@@ -1,7 +1,7 @@
-# ToysAndModels
+# Projet : ToysAndModels
 Le projet consiste à développer un tableau de bord interactif dans Power BI pour suivre la performance de l'entreprise dans les domaines des ventes, finances, logistique et ressources humaines.
 
-# Description Détailée du Projet
+# Description Détailée: 
 # 1. Contexte et Objectifs
    
 L'entreprise en question vend des maquettes et des modèles réduits. Elle possède déjà une base de données complète répertoriant plusieurs informations essentielles pour son fonctionnement, comme les employés, les produits, les commandes, etc. Le directeur souhaite disposer d’un tableau de bord afin de suivre facilement l’activité de l’entreprise. Ce tableau de bord devra être actualisé chaque matin pour fournir des informations à jour et pertinentes sur les aspects suivants :
