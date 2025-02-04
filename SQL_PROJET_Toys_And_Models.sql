@@ -1,6 +1,3 @@
-
-# By Georgeta|Allain|Acheck|Eliot|
-
 #1.Ventes : Le nombre de produits vendus par catégorie et par mois, avec comparaison et-------------------------------
 # taux de variation par rapport au même mois de l'année précédente.
 --taux de variation formule
