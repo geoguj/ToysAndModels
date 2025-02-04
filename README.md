@@ -53,7 +53,7 @@ Logistique : Un graphique en barres ou un tableau pour afficher les 5 produits l
 
 Ressources Humaines : Un graphique pour identifier les 2 meilleurs vendeurs du mois en termes de chiffre d'affaires.
 
-#6. Interactivité et Actualisation des Données
+# 6. Interactivité et Actualisation des Données
 
 Pour rendre le tableau de bord plus interactif et utile, des filtres (slicers) seront ajoutés, permettant de filtrer les données par pays, période, ou même catégorie de produits.
 
