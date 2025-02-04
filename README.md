@@ -45,17 +45,17 @@ Ensuite, il faudra créer des mesures DAX pour calculer les différents KPIs. Pa
 # 5. Création des Visualisations
 Une fois les données prêtes, l'étape suivante est la création des visualisations dans Power BI. Chaque thème sera représenté par des visualisations spécifiques :
 
-Ventes : Graphiques en barres ou en courbes pour afficher les ventes par catégorie et par mois. Un graphique de comparaison avec l'année précédente permettra de suivre l'évolution.
+Ventes : Graphiques en barres ou en courbes et anneau pour afficher les ventes par catégorie et par mois. Une table de comparaison avec l'année précédente permettra de suivre l'évolution.
 
-Finances : Des cartes ou graphiques en colonnes pour le chiffre d'affaires par pays et une table pour les commandes non payées.
+Finances : Une carte pour le chiffre d'affaires par pays, un nuage de points pour observer l'evolution du chiffre d'affaire et une table pour les commandes non payées.
 
-Logistique : Un graphique en barres ou un tableau pour afficher les 5 produits les plus vendus et leur stock restant.
+Logistique : Deux graphiques en barres pour afficher le TOP 5 des Pays ayant le plus de vlients et les 5 produits les plus vendus avec leur stock restant.
 
-Ressources Humaines : Un graphique pour identifier les 2 meilleurs vendeurs du mois en termes de chiffre d'affaires.
+Ressources Humaines : Un graphique en secteur pour visualiser la part de marché par vendeur et une carte pour identifier les 2 meilleurs vendeurs du mois en termes de chiffre d'affaires.
 
 # 6. Interactivité et Actualisation des Données
 
-Pour rendre le tableau de bord plus interactif et utile, des filtres (slicers) seront ajoutés, permettant de filtrer les données par pays, période, ou même catégorie de produits.
+Pour rendre le tableau de bord plus interactif et utile, des filtres seront ajoutés, permettant de filtrer les données par pays, période, ou même catégorie de produits.
 
 # 7. Déploiement et Partage
 
