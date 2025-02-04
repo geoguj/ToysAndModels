@@ -57,11 +57,9 @@ Ressources Humaines : Un graphique pour identifier les 2 meilleurs vendeurs du m
 
 Pour rendre le tableau de bord plus interactif et utile, des filtres (slicers) seront ajoutés, permettant de filtrer les données par pays, période, ou même catégorie de produits.
 
-L’actualisation automatique des données sera également configurée pour que le tableau de bord soit mis à jour chaque matin avec les dernières informations disponibles.
-
 # 7. Déploiement et Partage
 
-Une fois que le tableau de bord est terminé, il sera publié sur Power BI Service pour permettre au directeur et aux autres utilisateurs d'y accéder. Le partage des résultats et la possibilité d'exporter les données ou de recevoir des alertes par email sont également essentiels pour garantir que les informations sont suivies de manière proactive.
+Une fois que le tableau de bord est terminé, il pourra etre publié sur Power BI Service pour permettre au directeur et aux autres utilisateurs d'y accéder. 
 
 # Conclusion
 Le projet vise à créer un tableau de bord complet et interactif dans Power BI pour permettre au directeur de suivre de manière dynamique et efficace les performances de l'entreprise dans les domaines de Ventes, Finances, Logistique, et Ressources Humaines. Ce tableau de bord sera une aide précieuse pour la gestion quotidienne de l'entreprise, offrant des informations actualisées et des KPIs clairs pour prendre des décisions éclairées.
