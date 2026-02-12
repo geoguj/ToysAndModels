@@ -24,7 +24,8 @@ Table des produits : Cette table contient les informations relatives aux produit
 Table des commandes : Elle répertorie les informations sur chaque commande, y compris la quantité achetée, le montant de la commande, et la date d’achat.
 Table des employés : Cette table contient des informations sur les employés, dont les vendeurs, et leurs performances.
 Table des paiements : Elle répertorie les paiements effectués, et permet d'identifier les commandes qui n’ont pas encore été payées.
-3. Les KPIs à Développer
+
+# 3. Les KPIs à Développer
 Le projet implique la création de plusieurs KPIs essentiels à la gestion de l’entreprise. Voici une liste de ces KPIs :
 
 Ventes :
