@@ -1,5 +1,8 @@
-# Projet : ToysAndModels
-Le projet consiste à développer un tableau de bord interactif dans Power BI pour suivre les performances de l'entreprise dans les domaines des ventes, finances, logistique et ressources humaines.
+# ToysAndModels – Tableau de Bord Business Intelligence
+
+ToysAndModels est un projet de Business Intelligence développé avec Power BI, visant à analyser et piloter la performance globale d’une entreprise dans quatre domaines stratégiques : Ventes, Finance, Logistique et Ressources Humaines.
+
+Le tableau de bord interactif permet une visualisation claire des indicateurs clés de performance (KPI) et facilite la prise de décision basée sur les données.
 
 # Description Détailée: 
 # 1. Contexte et Objectifs
